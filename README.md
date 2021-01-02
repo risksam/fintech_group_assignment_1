@@ -1,2 +1,19 @@
 # fintech_group_assignment_1
-## test
+## Presentation Plan
+
+### Presenter 1
+Introduction to the project - Environment polutants and stock market, correlation or causation?  
+* A select set of industrial cities chosen (rather than Contries in whole)
+* A select set of pollutants chosen - CO2, NO2
+* We focused on 2020 (vs 2019?)
+
+
+### Presenter 2
+Introduce the polutant datasets, data cleansing and charts
+
+### Presenter 3
+Introduce the stock market datasets, data cleansing and charts
+
+## Presenter 4
+Discuss interesting correlations or inferences made
+
