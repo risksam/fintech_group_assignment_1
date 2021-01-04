@@ -35,3 +35,11 @@ FTSE  | -   | -   | - | - |
 AXJO  | -   | -   | - | - |
 
 https://uk.finance.yahoo.com/world-indices?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKc_prJoYcckZLz_LpW_bfUd4U0Y261lATphZPfoICrTcOsW7RseTkomZxrHetCHn4CWWLUAha_PT2QbqpTXUuojHTTzx3kdA5g0VvCKvLDEc2t5mNE3_bV84D6cibVaR3LFpeYE5MuyyoONMqyDswTEqlOaIMRkT_b7BW0l7_Aq
+
+> From Richard  
+-- What problem is being addressed  
+-- data sources / cleaning  
+-- calculations  
+-- conclusion / end point of your work  
+-- dashboard
+
