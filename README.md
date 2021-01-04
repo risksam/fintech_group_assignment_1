@@ -12,8 +12,11 @@ Introduction to the project - Environment polutants and stock market, correlatio
 Introduce the polutant datasets, data cleansing and charts
 
 ### Presenter 3
-Introduce the stock market datasets, data cleansing and charts
+Introduce the stock market datasets, data cleansing and charts - Index of the country ASX200, SMP500, JPN, INDIA industrial index - ETF, Airlines
 
-## Presenter 4
+2019 & 2020
+- tomorrow in class figure out the graphs for the dashboard
+
+### Presenter 4
 Discuss interesting correlations or inferences made
 
