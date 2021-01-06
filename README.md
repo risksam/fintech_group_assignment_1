@@ -20,10 +20,11 @@ Introduce the stock market datasets, data cleansing and charts - Index of the co
 Discuss interesting correlations or inferences made
 
 ## Todo
-1. Get top N cities for each country - by population?
-    then aggregate
-2. Take stock index per each country
-3. Consider *Percentage change* timeseries correlation
+1. Population weights  - Khush
+2. Dashboard - Sam
+3. Clean up notebooks. - Sam
+4. Script for presentation? - Friday, Nimendra to start
+
 
 Country | CO2 | NO2 | P10 |
 --- | --- | --- | --- | --- |
@@ -42,4 +43,6 @@ https://uk.finance.yahoo.com/world-indices?guccounter=1&guce_referrer=aHR0cHM6Ly
 -- calculations  
 -- conclusion / end point of your work  
 -- dashboard
+
+
 
