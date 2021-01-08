@@ -2,28 +2,35 @@
 ## Presentation Plan
 
 ### Presenter 1
-Introduction to the project - Environment polutants and stock market, correlation or causation?  
-* A select set of industrial cities chosen (rather than Contries in whole)
-* A select set of pollutants chosen - CO2, NO2
-* We focused on 2020 (vs 2019?)
+Motivation
+Try to underatand whether there is a correlation between air quality data and stock market, in the the world's most populous countries (or the biggest economies), and Australia.
+
+We took into account environment polutants such as **co, so2, o3, pm10 and pm25** etc.
+In the end we decided that **co** is the most relevant polutant.
+
+The stock market data was acquired through the Yahoo finance API, and was limited to 2019 and 2020.
+The attempt was to detect any correlation between the two years as well, taking in to account the bushfires in Australia and the resctricted industrial activities due to the global pandemic.
 
 ### Presenter 2
-Introduce the polutant datasets, data cleansing and charts
+Introduce the polutant datasets, data cleansing and charts.
+The team then continued on to cleanse the data.
+Reduced the dataset size by:
+* Removing the countried we were not considering
+* Removing the cities that were too small or irrelavant
+* Removed to the polutant species that we were not interested in
+* Restricted the stock market data to the main indices of each country only
+
+We used a few intermediate graphs to visualise the data (describe)
 
 ### Presenter 3
-Introduce the stock market datasets, data cleansing and charts - Index of the country ASX200, SMP500, JPN, INDIA industrial index - ETF, Airlines
+Introdcing the dashboard!
+Let's talk through the 2 sets of graphs - 2020 and 2019.
+We can compare correlations among contries and years.
+As per the graphs you can see the impact of Covid on the environmental polutants as well as the market.
+It's evident from the 3rd graph - conclusion was that the correlation was spurious - and we either need a diffrent rolling window to see any correlation.
 
-2019 & 2020
-- tomorrow in class figure out the graphs for the dashboard
-
-### Presenter 4
-Discuss interesting correlations or inferences made
-
-## Todo
-1. Population weights  - Khush
-2. Dashboard - Sam
-3. Clean up notebooks. - Sam
-4. Script for presentation? - Friday, Nimendra to start
+### Possible Enhancements
+We believe there are huge oppertunities to enhance the investigation, but picking more relevant (industrial stocks such as airlines) etc
 
 
 Country | CO2 | NO2 | P10 |
@@ -34,15 +41,3 @@ BSESN  | -   | -   | - | - |
 N225  | -   | -   | - | - |
 FTSE  | -   | -   | - | - |
 AXJO  | -   | -   | - | - |
-
-https://uk.finance.yahoo.com/world-indices?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKc_prJoYcckZLz_LpW_bfUd4U0Y261lATphZPfoICrTcOsW7RseTkomZxrHetCHn4CWWLUAha_PT2QbqpTXUuojHTTzx3kdA5g0VvCKvLDEc2t5mNE3_bV84D6cibVaR3LFpeYE5MuyyoONMqyDswTEqlOaIMRkT_b7BW0l7_Aq
-
-> From Richard  
--- What problem is being addressed  
--- data sources / cleaning  
--- calculations  
--- conclusion / end point of your work  
--- dashboard
-
-
-
